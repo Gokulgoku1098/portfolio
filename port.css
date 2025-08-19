@@ -1,0 +1,528 @@
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 130px;
+    margin-left: 180px;
+
+
+}
+
+.nav-link:hover {
+    color: rgba(255, 247, 5, 0.992) !important;
+    text-shadow: 0 10px 30px #fffb0094;
+}
+
+.portt {
+    background-color: rgb(58, 58, 58);
+    color: aliceblue;
+    height: 95vh;
+    background-image: url(./blacbacgg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.porttexplore {
+    background-color: rgb(58, 58, 58);
+    color: aliceblue;
+    height: 95vh;
+    background-image: url(./blacbacgg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.porttabout {
+    background-color: rgb(58, 58, 58);
+    color: aliceblue;
+    height: 95vh;
+    background-image: url(./blacbacgg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.porttsk {
+    background-color: rgb(58, 58, 58);
+    color: aliceblue;
+    height: 95vh;
+    background-image: url(./blacbacgg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+.blackshade {
+    background-color: rgba(0, 0, 0, 0.571);
+    height: 95vh;
+    margin-top: 0px;
+    margin-left: -10px;
+    overflow: hidden;
+
+}
+
+.myportt {
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-weight: 900;
+}
+
+.line {
+    height: 2px;
+    width: 500px;
+    background-color: aliceblue;
+    margin-left: 28px;
+    margin-top: 20px;
+
+}
+
+.explore {
+    border-radius: 15px;
+    background-color: rgb(252, 252, 252);
+    margin-top: 100px;
+    margin-left: 60px;
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+
+}
+
+.portimg {
+    height: 900px;
+    margin-top: -200px;
+    margin-left: 100px;
+    border-radius: 50%;
+    border: solid 9px black;
+
+}
+
+.mypic {
+    background-color: rgb(255, 226, 3);
+    background-image: url(./portyellowbacg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.mypicexplore {
+    background-color: rgb(255, 226, 3);
+    background-image: url(./portyellowbacg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.mypicabout {
+    background-color: rgb(255, 226, 3);
+    background-image: url(./portyellowbacg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.dowloadcv {
+    border-radius: 15px;
+    background-color: rgb(252, 252, 252);
+    margin-top: 100px;
+    margin-left: 120px;
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+}
+
+.dowloadcv:hover {
+    transform: scale(1.3);
+    box-shadow: 0 10px 30px #fffb0094;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.dowloadcv:active {
+    transform: scale(0.95);
+    color: rgb(253, 245, 13);
+}
+
+.explore:hover {
+    transform: scale(1.3);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    color: rgb(255, 255, 255);
+    box-shadow: 0 10px 30px #fffb00c0;
+    background-color: black;
+}
+
+.explore:active {
+    transform: scale(0.95);
+    color: rgb(253, 245, 13);
+}
+
+.webdeveloper {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: px;
+
+}
+
+.fonts {
+    font-size: 50px;
+    display: flex;
+    gap: 30px;
+    margin-left: 450px;
+    border-radius: 50%;
+    margin-top: -20px;
+
+
+}
+
+.fonts a {
+    color: rgb(235, 235, 235);
+    transform: rotate(-60deg);
+
+    animation: settle 0.7s ease-out infinite alternate;
+    ;
+}
+
+.buttt {
+    margin-top: -40px;
+    margin-left: -65px;
+
+}
+
+.fonts a:hover {
+    transform: scale(1.5);
+    box-shadow: 0 10px 30px #0066ffb8;
+    color: rgba(255, 234, 0, 0.995);
+    border-radius: 50%;
+    padding: 2px;
+
+
+
+}
+
+@keyframes settle {
+    100% {
+        transform: rotate(0)
+    }
+}
+
+.fonts a:active {
+    transform: scale(0.95);
+    color: rgb(253, 245, 13);
+}
+
+.secondpagebuttt {
+    border-radius: 20px;
+    background-color: rgb(252, 252, 252);
+    margin-top: 50px;
+    margin-left: 125px;
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    width: 400px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+
+}
+
+.secondpagebuttt:hover {
+    transform: scale(1.3);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    color: rgb(255, 255, 255);
+    background-color: black;
+    box-shadow: 0 10px 30px #fffb00ae;
+    
+}
+
+.secondpagebuttt:active {
+    transform: scale(0.95);
+    color: rgb(253, 245, 13);
+}
+
+.butttt {
+
+    transform: translatey(100%);
+    /* start outside left */
+    animation: slideIn 1s ease-out forwards;
+
+}
+
+.butttt a {
+    display: block;
+}
+
+.abouth {
+    font-size: 100px;
+}
+
+.aboutp {
+    font-size: 27px;
+    margin: 40px;
+}
+
+.linee {
+    height: 2px;
+    width: 500px;
+    background-color: aliceblue;
+    margin-left: 128px;
+    margin-top: 20px;
+
+}
+
+.skillp {
+    font-size: 20px;
+}
+
+.skillcard {
+    background-color: rgb(61, 61, 61);
+    border-radius: 20px;
+    height: 350px;
+    width: 550px;
+    margin-left: 50px;
+    transform: translateX(-100%);
+    /* start outside left */
+    animation: slideIn 1s ease-out forwards;
+}
+
+
+.aboutanmate {
+    transform: translatey(100%);
+    /* start outside left */
+    animation: slideIn 1s ease-out forwards;
+}
+
+@keyframes slideIn {
+    to {
+        transform: translateX(0);
+        transform: translatey(0);
+    }
+}
+
+.hcj {
+    margin: 70px;
+    margin-top: 30px;
+}
+
+.contactt {
+    margin-left: 250px;
+
+}
+
+.form-control::placeholder {
+    color: #fff;
+    opacity: 0.7;
+}
+
+.card {
+    background-color: rgb(78, 78, 78);
+    color: #fff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.projectcard1 {
+    gap: 100px;
+    margin-left: 230px;
+
+
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    color: rgb(255, 255, 255);
+    background-color: black;
+    box-shadow: 0 10px 30px #fffb00ae;
+
+}
+
+.porttt {
+    background-color: rgb(58, 58, 58);
+    color: aliceblue;
+    height: 110vh;
+    background-image: url(./blacbacgg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blackshadde {
+
+    background-color: rgba(0, 0, 0, 0.571);
+    height: 110vh;
+    margin-top: 0px;
+    margin-left: -10px;
+    overflow: hidden;
+
+}
+.blackshaddeproject {
+
+    background-color: rgba(0, 0, 0, 0.571);
+    height: 110vh;
+    margin-top: 0px;
+    margin-left: -10px;
+    overflow: hidden;
+
+}
+.blackshaddesk{
+
+    background-color: rgba(0, 0, 0, 0.571);
+    height: 110vh;
+    margin-top: 0px;
+    margin-left: -10px;
+    overflow: hidden;
+
+}
+.blackshadeabout{
+
+    background-color: rgba(0, 0, 0, 0.571);
+    height: 110vh;
+    margin-top: 0px;
+    margin-left: -10px;
+    overflow: hidden;
+
+}
+.blackshaddeproject{
+    margin-top: -16px;
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .row {
+        display: block;
+
+    }
+
+    .portt {
+        width: 100%;
+    }
+
+    .fonts {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin: 20px 0;
+
+    }
+
+    .navbar-nav {
+
+        gap: 8px;
+
+    }
+
+    .mypicexplore {
+        display: none;
+    }
+
+    .porttexplore {
+        width: 100% !important;
+    }
+
+    .mypicabout {
+        display: none;
+    }
+
+    .porttabout {
+        width: 100% !important;
+    }
+
+    .twoskillcard {
+        display: block !important;
+        height: 100%;
+        
+    }
+
+    .skillcard {
+        width: 90%;
+       
+        margin: 0 auto 15px;
+        
+        padding: 15px;
+        
+        font-size: 14px;
+        
+       
+        
+
+    }
+    .porttsk{
+       height: auto !important;
+       
+    }
+    .blackshaddesk{
+        height: auto !important;
+        
+    }
+    .projectcard1{
+        display: block !important;
+        margin-left: 70px;
+        
+    }
+    .card{
+        
+        margin-bottom: 30px;
+       
+    }
+    .porttt{
+        height: auto !important;
+        
+    }
+    .blackshaddeproject{
+
+        height: auto !important;
+        
+
+    }
+    .mypic{
+        height: 400px;
+        width: 460px;
+    }
+    .portimg{
+
+         height: 400px;
+        width: 300px;
+        margin-top: 60px;
+
+    }
+    .myportt{
+        font-size: 50px;
+    }
+    .secondpagebuttt {
+        width: 200px;
+     }
+     .aboutanmate{
+        font-size: 70px;
+     }
+     .abouth{
+        font-size: 70px;
+     }
+     form{
+       margin-left: -220px;
+     }
+     .skillp{
+        font-size: 14px;
+        margin-left: 10px;
+     }
+     .porttabout{
+         height: auto !important;
+     }
+     .blackshadeabout{
+
+        height: auto !important;
+        
+
+    }
+
+}
