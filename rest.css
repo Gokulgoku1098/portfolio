@@ -1,0 +1,118 @@
+
+.imgg1stdiv{
+   background-image: url("https://images.unsplash.com/photo-1504674900247-0877df9cc836?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D");
+    height: 600px;
+    background-size: cover;
+}
+.imgg2stdiv{
+   background-color: rgba(0, 0, 0, 0.414);
+    height: 600px;
+    
+}
+.imgg2stdiv h1{
+    color: white;
+    font-size: 100px;
+
+}
+.contact{
+    background-color: rgb(63, 86, 68);
+    color: rgb(255, 255, 255);
+    
+}
+
+    
+.gallery-img {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  border-radius: 50%;
+  cursor: pointer;
+
+}
+
+.gallery-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.2);
+}
+.about{
+    color: rgb(255, 255, 254);
+    background-color: rgba(0, 0, 0, 0.362);
+    
+   
+    background-size: cover;
+    background-position: center;
+    /* position: fixed; */
+    height: 100%;
+  width: 100%;
+}
+.content{
+    background-color: rgba(0, 0, 0, 0.255);
+}
+.gallery img{
+    border-radius: 10%;
+}
+.dropbite{
+  background-color: rgb(0, 0, 0);
+  color: orange;
+}
+.droppp {
+  color: aliceblue;
+}
+.verticalline{
+  height: 200px;
+  width: 2px;
+  background-color: orange
+}
+body{
+  
+  background-image: url(https://wallpapers.com/images/hd/food-4k-1pf6px6ryqfjtnyr.jpg);
+  background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 100vh;
+            background-attachment: fixed;
+            
+}
+.blackshade{
+  background-color: rgba(0, 0, 0, 0.671);
+}
+.gbox h1{
+  color: aliceblue;
+
+}
+.gbox h2{
+  color: aliceblue;
+
+}
+#gall{
+  color: aliceblue;
+}
+#h1drop{
+  color: black;
+}
+.gboxtext{
+  margin-top: 200px;
+  margin-left: 60px;
+}
+.gboxbottext{
+  margin-left: 60px;
+  color: orange;
+
+}
+.boxxx{
+  background-color:rgba(242, 207, 161, 0.744);
+  border: solid;
+  margin: 0px;
+  padding: 0px;
+
+}
+.icons{
+  font-size: 50px;
+  margin-left: 100px;
+}
+.modall h1{
+  color: black;
+}
+#bottt:hover{
+
+  background-color: aqua;
+  
+}

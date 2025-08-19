@@ -1,0 +1,120 @@
+*{
+     font-family: "Libertinus Math", system-ui;
+}
+:root{
+     --brownclr:rgb(34, 1, 1);
+}
+#contactBTN{
+     background-color: var(--brownclr);
+     color: white;
+}
+#contactBTN:hover{
+     background-color:white;
+     color:var(--brownclr);
+     border-color:var(--brownclr);
+}
+@media(max-width:992px){
+     .nav-item i{
+          display: none;
+     }
+}
+#main{
+     background-image: url(./media/furrimg.jpeg);
+     background-size: cover;
+     /* height: 100vh; */
+     background-position: center;
+}
+#welcome{
+     margin-top: 8%;
+     padding-left:5% ;
+     color: white;
+
+}
+#welcome h4{
+     font-size: 60px;
+     font-weight:900 ;
+}
+#welcome h1{
+     font-size: 60px;
+     font-weight:900 ;
+     
+}
+.clr{
+     background-color: rgba(0, 0, 0, 0.556);
+}
+@media (max-width:992px){
+
+     #welcome h4{
+     font-size: 30px;
+     font-weight:900 ;
+}
+#welcome h1{
+     font-size: 40px;
+     font-weight:900 ;
+     
+}
+
+}
+#work{
+     background-image: url(https://t4.ftcdn.net/jpg/03/68/71/47/360_F_368714779_MUSFOjZyTFpPCNssvUI7O9YkNPOhNENZ.jpg);
+     background-size: cover;
+     /* height: 100vh; */
+     background-position: center;
+}
+.card-title~ .viewBTN{
+     border-color: var(--brownclr);
+     color: var(--brownclr);
+}
+.card-title~ .viewBTN:hover{
+     border-color:white;
+     color: var(--brownclr);
+}
+#about{
+     background-color: grey;
+}
+#about h1{
+     color: var(--brownclr);
+}
+#hr{
+     background-color:  var(--brownclr);
+     width: 14rem;
+     height: 0.5rem;
+}
+#about p{
+     text-align: justify;
+}
+#about button{
+     color: var(--brownclr);
+     border: solid var(--brownclr);;
+}
+#about button:hover{
+     color: white;
+     border:solid white;
+}
+.aboutimg{
+     border: 7px solid var(--brownclr);
+     padding-left: 4%;
+     padding-top: 4%;
+     height: 493px;
+}
+.smalldiv{
+     background-color: rgba(0, 0, 0, 0.726);
+     color: white;
+     bottom: 0;
+     width: 280px;
+     height: 60px;
+
+}
+.smalldiv{
+     font-size: 18px;
+     font-weight: 800;
+     padding-top: 15px;
+}
+#viewBTN2{
+     border: solid var(--brownclr);
+     color: var(--brownclr);
+}
+#viewBTN2:hover{
+     color: white;
+     background-color: var(--brownclr);
+}
